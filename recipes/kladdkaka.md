@@ -1,7 +1,7 @@
 ---
 # ── Basis ────────────────────────────────────────────────
 title: "Kladdkaka"
-date: 2026-06-18T14:37:19+02:00
+date: 2026-06-25
 draft: false
 description: "Kladdkaka ist ein klebriger schwedischer Schokoladenkuchen"
 image: "images/recipes/Kladdkaka.jpg"
