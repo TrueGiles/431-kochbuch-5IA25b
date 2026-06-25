@@ -52,4 +52,4 @@ Kladdkaka ist ein schwedischer Schokoladenkuchen, der sich vor allem durch seine
 
 - Laktose
 - Gluten
-- Hühnereiweißallergie
+- Hühnereiweissallergie
